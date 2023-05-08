@@ -1,1 +1,1 @@
-# Javascript_Leetcode
+# Javascript_Leetcode_Challenge
